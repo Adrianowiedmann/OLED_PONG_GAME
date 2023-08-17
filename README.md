@@ -6,6 +6,8 @@ This project was carried out for the discipline of Laboratory of Microprocessed 
 
 The porpuse of this project was to make the oled pong game using the language C and subjects studied in class for example: DMA, UART, ADC.
 
+This project was made using Code Composer Studio.
+
 ## 2. Devices Used
 1. MSP430 F5529
 2. 2 JOYSTICKS - one to the player 1 and another one to the player 2
