@@ -1,0 +1,1 @@
+"./Aleat.obj" "./Gpio.obj" "./I2c.obj" "./Joystick.obj" "./Oled.obj" "./Oled_Letras.obj" "./Pong.obj" "./Timer.obj" "./Uart.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
