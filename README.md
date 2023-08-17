@@ -18,3 +18,6 @@ The porpuse of this project was to make the oled pong game using the language C 
    - GND -> GND; +5v -> 3v3; VRx -> P6.3; VRy -> P6.4
 3. OLED display
    - GND -> GND; VCC -> 5V; SCL -> P4.2; SDA -> P4.1
+
+## Final result
+It's possible to watch the final result of this project on YouTube [https://www.youtube.com/watch?v=1Pgt3__0ZOk]
