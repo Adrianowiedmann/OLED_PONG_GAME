@@ -1,5 +1,5 @@
 # OLED PONG GAME
-Pong game made using an MSP430F5529 microprocessor.
+Pong game made using a MSP430F5529 microprocessor.
 
 ## 1. About the Project
 This project was carried out for the discipline of Laboratory of Microprocessor Systems at the University of Brasilia - UnB.
